@@ -14,10 +14,10 @@ spec:
             name: service-helloworld
             port:
               number: 80
-      - path: "/helloworld2"
-        pathType: Prefix
-        backend:
-          service:
-            name: service-helloworld2
-            port:
-              number: 80
+      # - path: "/helloworld2"
+      #   pathType: Prefix
+      #   backend:
+      #     service:
+      #       name: service-helloworld2
+      #       port:
+      #         number: 80
