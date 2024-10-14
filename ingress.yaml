@@ -12,7 +12,7 @@ spec:
         path: "/"
         backend:
           service:
-            name:  service-helloworld
+            name:  service-helloworldapp
             port:
               number: 80
 
