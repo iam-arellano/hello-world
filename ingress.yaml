@@ -20,5 +20,5 @@ spec:
           service:
             name: service-helloworldv2
             port:
-              number: 81
+              number: 80
 
